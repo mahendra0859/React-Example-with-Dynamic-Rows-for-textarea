@@ -26,3 +26,12 @@ $ yarn start OR npm start
 $
 
 ![](https://media.giphy.com/media/IauqTYLcfPdh3Yb30a/giphy.gif)
+
+### steps for github pages for react app
+
+- Link :- https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
+$ yarn add -D gh-pages
+$
+
+- Demo Link : - https://mahendra0859.github.io/React-Example-with-Dynamic-Rows-for-textarea/
